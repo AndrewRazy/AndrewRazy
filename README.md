@@ -55,7 +55,7 @@
 
 ## Featured Projects
 
-### 🥗 Personal Bowl Chef
+### 🥗 [Personal Bowl Chef](https://github.com/AndrewRazy/personal-bowl-chef)
 `Next.js` · `React` · `JavaScript` · `Ollama` · `Zod`
 
 An interactive digital bowl where you drag and drop ingredients to visualize a meal, then a remote LLM generates a personalized healthy recipe in real time.
